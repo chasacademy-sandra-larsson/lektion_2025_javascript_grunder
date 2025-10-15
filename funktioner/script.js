@@ -47,6 +47,7 @@ console.log(`${checkAvailability(tShirtInStock)} T-shirts`);
 console.log(`${checkAvailability(jeansInStock)} jeans`);
 
 // Arrow-function - pilfunktioner - endast ett komprimerat skrivsätt!
+// Varför pilfunktioner i JS? - allt kommer gå snabbare att skriva och läsa!
  const multiply = (num1, num2) => {
     return num2 * num1;
 }
